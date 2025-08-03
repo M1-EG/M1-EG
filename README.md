@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
-
-<img width="760" height="78" alt="لقطة الشاشة 2025-08-03 072435" src="https://github.com/user-attachments/assets/1cfabf26-d7f4-404f-b6c1-c35a92a41e76" />
-
-
-
-
-
 # 👨‍💻 About Me
 
 Welcome to my GitHub!  
